@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# This site is intended to be indexed.
+# Add a sitemap URL here when available:
+Sitemap: https://devopsnextgenx.dpdns.org/sitemap.xml
